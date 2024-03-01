@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OperatiingSystem/OS01 - Process.md",
+                "file": "OperatingSystem/OS01 - Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7388da9004466e85",
+  "active": "37906181d8efd099",
   "lastOpenFiles": [
     "C#/README.md",
     "README.md",
@@ -179,11 +179,11 @@
     "C++/README.md",
     "ComputerGraphics/README.md",
     "GameMath/README.md",
-    "OperatiingSystem/README.md",
-    "OperatiingSystem/OS00 - What is Operating System.md",
+    "OperatingSystem/README.md",
+    "OperatingSystem/OS00 - What is Operating System.md",
     "GameMath/GM00 -.md",
-    "OperatiingSystem/Pasted image 20240301150734.png",
-    "OperatiingSystem/OS01 - Process.md",
+    "OperatingSystem/Pasted image 20240301150734.png",
+    "OperatingSystem/OS01 - Process.md",
     "ComputerGraphics/CG00 -.md",
     "C#/CSharp00 -.md",
     "C++/CPP00 -.md",
@@ -191,6 +191,6 @@
     "ComputerGraphics",
     "C++",
     "C#",
-    "OperatiingSystem"
+    "OperatingSystem"
   ]
 }
